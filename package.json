@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learn by doing",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitagr/React.Do.git"
+  },
+  "author": "Nitish Agrahari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitagr/React.Do/issues"
+  },
+  "homepage": "https://github.com/nitagr/React.Do#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
